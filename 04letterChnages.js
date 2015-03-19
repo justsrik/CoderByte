@@ -20,4 +20,6 @@ function LetterChanges(str) {
   
   return newStr; 
          
-}	
+}
+
+	
